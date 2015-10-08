@@ -55,6 +55,8 @@ display : inline-flex
 这样做将元素定义为弹性容器，其子元素即弹性子元素。 flex 值表示弹性容器为块级。inline-flex 值表示弹性容器为原子行级元素 。
 
 >注意：浏览器厂商的前缀标记，是加在属性值而不是向属性名前面。如：display:-webkit-flex。
+
+
 ####弹性子元素的注意事项
 包含在弹性容器内的文本自动成为匿名的弹性子元素。然而，只包含空白的弹性子元素不会被渲染，就好像它被设定为 display:none 一样。
 
@@ -73,6 +75,7 @@ display : inline-flex
 
 ####弹性盒子的属性
 >Flexible-boxes-related properties: margin, align-content, align-items, align-self, display, flex, flex-basis, flex-direction, flex-flow, flex-grow, flex-shrink, flex-wrap, justify-content, min-height, min-width, order
+
 
 #####不影响弹性盒子的属性
 
