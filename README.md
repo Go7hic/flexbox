@@ -5,6 +5,7 @@ flexbox 总结
 
 对应的 DEMO 为 flex.html。
 
+推荐一个游戏可以联系 flex 布局： http://flexboxfroggy.com/#zh-cn
 ## 使用 flex 布局
 
 
